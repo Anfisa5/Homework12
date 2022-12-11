@@ -45,6 +45,7 @@ public class MovieManager {
 
     //2 метод вывод всех фильмов в порядке добавления (findAll)
     public String[] findAll() {
+
         return movies;
     }
 
